@@ -30,5 +30,5 @@ Datasets:[Google Drive](https://drive.google.com/file/d/1iZYtTMEXLB1q8gZt_Cb1p6w
 The code is released under the MIT License. It is a short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.
 
 ## Acknowledgement
-Our project is developed based on [yolov11](https://github.com/ultralytics/ultralytics),[SAM](https://github.com/facebookresearch/segment-anything.git).
+Our project is developed based on [VIT]().
 
